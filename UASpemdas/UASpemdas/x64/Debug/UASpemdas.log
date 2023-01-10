@@ -1,0 +1,9 @@
+﻿  UASpemdas.cpp
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(92,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(96,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(99,14): warning C4804: '<=': unsafe use of type 'bool' in operation
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(103,19): warning C4804: '<=': unsafe use of type 'bool' in operation
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(107,19): warning C4804: '<=': unsafe use of type 'bool' in operation
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(111,19): warning C4804: '<=': unsafe use of type 'bool' in operation
+F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\UASpemdas\UASpemdas.cpp(19,9): warning C4101: 'i': unreferenced local variable
+  UASpemdas.vcxproj -> F:\Kuliah Yuren\semester3\pemrog dasar\UASpemdas\x64\Debug\UASpemdas.exe
